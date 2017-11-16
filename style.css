@@ -26,6 +26,11 @@ body {
     background-image: linear-gradient(to bottom, #f7f7f7 0%,#eee 100%);
     border: 1px solid #e5e5e5;
   }
+
+  .col-md-4 {
+    width: 20px;
+    height: 20px
+  }
   
   @media (min-width: 768px) {
     .navbar-nav {
